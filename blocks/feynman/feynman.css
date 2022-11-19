@@ -7,4 +7,5 @@
     min-height: 890px;
     padding-top: 100px;
     background-color: #f2f2f2;
+    box-sizing: border-box;
 }

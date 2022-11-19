@@ -3,7 +3,8 @@
     position: absolute;
     margin: 0;
     padding: 0;
-    width: 388px;
+    max-width: 388px;
+    width: 100%;
     left: 64px;
     bottom: 30px;
     font-size: 18px;
